@@ -1,4 +1,4 @@
-package BaitapChuocg3.kethuaPerson;
+package Baitapchuong3.kethuaPerson;
 
 import java.util.Scanner;
 
