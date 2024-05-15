@@ -1,4 +1,4 @@
-package Baitapchuong3.BaiTapLopTruuTuong;
+package Baitapchuong3.BaiTapLopTruuTuonglisde88;
 
 public  interface animal {
      void run();
