@@ -10,7 +10,7 @@ public class baitapslide115 {
         int n = sc.nextInt();
         sc.nextLine();
         for (int i = 0; i < n; i++) {
-            System.out.println("Nhap thong tin cho sinh vien thu  " + (i + 1) + ":");
+            System.out.println("Nhap thong tin cho sinh vien thu  " + (i + 1) + ":"); 
             System.out.println("MSV: ");
             String maSV = sc.nextLine();
             System.out.println("Name: ");
