@@ -1,5 +1,4 @@
 
-import java.util.LinkedList;
 import java.util.Scanner;
 
 public class NXH665Person {
@@ -21,37 +20,6 @@ public class NXH665Person {
         System.out.println("Ho va ten la :" + name);
         System.out.println("tuoi : " + age);
         System.out.println("So ID " + ID);
-    }
     
-    public void phuongthuc(){
-    LinkedList<String> newperson = new LinkedList<>();
-    newperson.add(name);
     }
-    public String getName() {
-        return name;
-    }
-    public void setName(String name) {
-        this.name = name;
-    }
-    public int getAge() {
-        return age;
-    }
-    public void setAge(int age) {
-        this.age = age;
-    }
-    public Long getID() {
-        return ID;
-    }
-    public void setID(Long iD) {
-        ID = iD;
-    }
-    
-     
-    
-    
-    
-     
-
-    
-    
 }

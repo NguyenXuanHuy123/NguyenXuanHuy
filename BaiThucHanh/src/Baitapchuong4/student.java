@@ -6,7 +6,6 @@ public class student {
 
     public String fullname;
     public int age;
-
     public void Nhapthongtin(){
      Scanner sc = new Scanner(System.in);
      System.out.println(" nhapten : ");
@@ -30,6 +29,7 @@ public class student {
     public void setAge(int age) {
         this.age = age;
     }
+   
 
     
 }
